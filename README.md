@@ -8,11 +8,11 @@ I'm passionate about building modern, user-centric web applications. Currently e
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React • Next.js • TypeScript • HTML5 • CSS3 • TailwindCSS
+**Frontend:** React • Next.js • TypeScript • HTML5 • CSS3 • TailwindCSS • JavaScript • Vue.js
 
-**Backend:** Node.js • TypeScript • Prisma • Python
+**Backend:** Node.js • TypeScript • Prisma • Python • C# • Java
 
-**Tools & Others:** Git • GitHub • VS Code • Figma
+**Tools & Others:** Git • GitHub • VS Code • Figma • AI • Claude Code • Gemini API • Antigravity • Perplexity • Lit-Webcomponents • Apache Cordova
 
 ---
 
@@ -51,7 +51,7 @@ I'm constantly learning and improving my skills through:
 - **Website:** [max-schenk.tech](https://max-schenk.tech)
 - **LinkedIn:** [maxschenk-dev](https://www.linkedin.com/in/maxschenk-dev)
 - **Instagram:** [@schengii](https://www.instagram.com/schengii/)
-- **Email:** schemaxi02@gmail.com
+- **Email:** schemaxi02@gmail.com, sche-max@web.de
 
 ---
 
