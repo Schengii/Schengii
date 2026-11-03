@@ -46,5 +46,4 @@ SPS-Programmierung (Elektroniker für Betriebstechnik) · AI-assisted developmen
 ## 🤝 Contact
 
 - 💼 LinkedIn: [maxschenk-dev](https://www.linkedin.com/in/maxschenk-dev)
-- 🌐 Website: [max-schenk.tech](https://max-schenk.tech)
-- ✉️ sche-max@web.de
+- 🌐 Website & Kontakt: [max-schenk.tech](https://max-schenk.tech)
