@@ -1,10 +1,10 @@
 # Hi, I'm Max Schenk 👋
 
-**Frontend Developer (Fachinformatiker für Anwendungsentwicklung, IHK 2026) · Bonn, Germany**
+**Junior Full-Stack Developer (Fachinformatiker für Anwendungsentwicklung, IHK 2026) · Bonn, Germany**
 
-I build web applications with TypeScript and Lit Web Components, with tests and a live demo for my projects.
+I build and ship web applications with TypeScript, React/Next.js and Spring Boot: tested, automated with CI and deployed with live demos.
 
-> 🔎 **Currently looking for:** Junior Frontend / Software Developer roles · Bonn, hybrid or remote · available immediately
+> 🔎 **Currently looking for:** Junior Frontend / Full-Stack / Software Developer roles · Bonn, hybrid or remote · available immediately
 
 ---
 
@@ -26,13 +26,22 @@ I build web applications with TypeScript and Lit Web Components, with tests and 
 ## 🛠️ Tech Stack
 
 **Daily use**
-TypeScript · JavaScript · HTML5 · CSS3 · Lit · Web Components · REST APIs · Git · PostgreSQL · GitHub Actions · Vercel
+TypeScript · JavaScript · React · Next.js · Node.js · HTML5 · CSS3 · Lit / Web Components · REST APIs · PostgreSQL · Prisma · Git · GitHub Actions · Vercel · Vitest · Playwright
 
 **Also in use**
-Java (Spring Boot, JUnit 5) · C# · SQL
+Java (Spring Boot, JUnit 5, Testcontainers) · Python (FastAPI, pytest) · C# · SQL
 
 **Also**
 SPS-Programmierung (Elektroniker für Betriebstechnik) · AI-assisted development (Claude, Gemini)
+
+---
+
+## ⚙️ Engineering practices
+
+- Conventional Commits, feature branches and pull requests
+- CI on every push: lint, type-check, unit and E2E tests (Vitest, Jest, Playwright, JUnit)
+- Security by default: Gitleaks, CodeQL, Dependabot, least-privilege workflow permissions, SHA-pinned GitHub Actions
+- Accessibility (WCAG) and GDPR-friendly design in the production projects
 
 ---
 
